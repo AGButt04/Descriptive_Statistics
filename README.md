@@ -1,6 +1,7 @@
 # 📊 Descriptive Statistics
 
-A collection of small Python projects exploring descriptive statistics with real-world datasets.
+A collection of small Python projects exploring descriptive statistics with real-world datasets. Introduces you to the basics of 
+Fundamental Math for Data Science.
 
 ## 🗂️ Structure
 
@@ -16,7 +17,7 @@ Spread/
 ## ▶️ Run
 
 ```bash
-just install pyCharm and install numpy pandas matplotlib libraries
+Just install pyCharm and install numpy pandas matplotlib libraries
 python Central\ Tendency/Apartment_prices.py
 ```
 
