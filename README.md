@@ -1,26 +1,32 @@
 # 📊 Descriptive Statistics
 
-A collection of small Python projects exploring descriptive statistics with real-world datasets. Introduces you to the basics of 
-Fundamental Math for Data Science.
+A collection of Python projects exploring descriptive statistics fundamentals using real-world datasets. Part of my journey through Codecademy's Fundamental Math for Data Science course.
 
-## 🗂️ Structure
+## 🎯 What I Learned
+- Analyzing categorical data distributions
+- Computing measures of central tendency (mean, median, mode)
+- Understanding data spread through variance and standard deviation
+- Data visualization with matplotlib
 
-```
+## 🗂️ Project Structure
 Categorical Data/
-  ├─ *.csv, *.py – Categorical analysis
+├─ *.csv, *.py – Frequency analysis and categorical distributions
 Central Tendency/
-  ├─ *.csv, *.py – Mean, Median, Mode
+├─ *.csv, *.py – Mean, median, mode calculations with real datasets
 Spread/
-  ├─ *.py – Variance, Standard Deviation
-```
+├─ *.py – Variance, standard deviation, and data dispersion
 
-## ▶️ Run
-
+## 🚀 Getting Started
 ```bash
-Just install pyCharm and install numpy pandas matplotlib libraries
-python Central\ Tendency/Apartment_prices.py
-```
+# Install dependencies
+pip install numpy pandas matplotlib
 
-## 👤 Author
+# Run examples
+python "Central Tendency/Apartment_prices.py"
+🔧 Technologies
 
-Abdul Ghani Butt
+Python 3.x
+NumPy, Pandas, Matplotlib
+
+📈 Next Steps
+Moving on to probability theory and inferential statistics as part of my AI/ML learning roadmap.
