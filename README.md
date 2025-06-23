@@ -9,12 +9,14 @@ A collection of Python projects exploring descriptive statistics fundamentals us
 - Data visualization with matplotlib
 
 ## 🗂️ Project Structure
+```
 Categorical Data/
 ├─ *.csv, *.py – Frequency analysis and categorical distributions
 Central Tendency/
 ├─ *.csv, *.py – Mean, median, mode calculations with real datasets
 Spread/
 ├─ *.py – Variance, standard deviation, and data dispersion
+```
 
 ## 🚀 Getting Started
 ```bash
@@ -23,11 +25,14 @@ pip install numpy pandas matplotlib
 
 # Run examples
 python "Central Tendency/Apartment_prices.py"
-🔧 Technologies
+```
 
-Python 3.x
-NumPy, Pandas, Matplotlib
+## 🔧 Technologies
+- Python 3.x
+- NumPy, Pandas, Matplotlib
 
-📈 Next Steps
+## 📈 Next Steps
 Moving on to probability theory and inferential statistics as part of my 12-month AI/ML learning roadmap.
-**Part of my Machine Learning portfolio** | [Github Profile](https://github.com/AGButt04) | [LinkedIn](https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
+
+---
+**Part of my Machine Learning portfolio** | [GitHub Profile](https://github.com/AGButt04) | [LinkedIn](https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
