@@ -29,4 +29,5 @@ Python 3.x
 NumPy, Pandas, Matplotlib
 
 📈 Next Steps
-Moving on to probability theory and inferential statistics as part of my AI/ML learning roadmap.
+Moving on to probability theory and inferential statistics as part of my 12-month AI/ML learning roadmap.
+**Part of my Machine Learning portfolio** | [Github Profile](https://github.com/AGButt04) | [LinkedIn](https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
